@@ -6,6 +6,7 @@ class Encryption extends ConsoleProgram {
   */
   
   public void run() {
-
+    
   }
+
 }

@@ -59,6 +59,8 @@ Here are some more encrypted strings using this method:
 
 2.  In the `run()` method, write a program that gets a message from the user and outputs the encrypted message, utilizing the `encryptMessage()` method.
 
+3. **BONUS:** Limit your shift value in your `encryptMessage()` method such that an exception will be thrown if the shift is less than 1.
+
 
 ### Sample Run 1
 ```
